@@ -1,0 +1,3 @@
+ Started server process [32272]-06/29/2022 06:04:40 PM
+ Waiting for application startup.-06/29/2022 06:04:40 PM
+ Application startup complete.-06/29/2022 06:04:40 PM
